@@ -15,6 +15,7 @@ A Swift script to determine and optionally remove unused localization keys in yo
 3. Navigate to your project
 
 Replace `/path/to/your/Localizable.strings` with the actual path to your Localizable.strings file.
+
 The `--remove` flag is optional and will automatically remove unused keys from the file.
 
 `swift strings-sweeper.swift --lang /path/to/your/Localizable.strings --remove`
