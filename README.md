@@ -4,6 +4,13 @@
 
 <p align="center">A Swift script to determine and optionally remove unused localization keys in your project.</h1>
 
+
+## Description
+
+- Determines unused localization keys by scanning Swift files in the project.
+- Optionally removes unused keys from the specified language file.
+- Creates a backup of the original language file before removal.
+
 ## Usage
 
 ### Prerequisites
@@ -23,11 +30,6 @@ The `--remove` flag is optional and will automatically remove unused keys from t
 `swift strings-sweeper.swift --lang /path/to/your/Localizable.strings --remove`
 
 `swift strings-sweeper.swift --lang ./Localizable.strings --remove`
-
-## Script Details
-- Determines unused localization keys by scanning Swift files in the project.
-- Optionally removes unused keys from the specified language file.
-- Creates a backup of the original language file before removal.
 
 
 https://github.com/stavares843/strings-sweeper/assets/29093946/946b5db0-673f-4713-8142-45ddcd7f4684
