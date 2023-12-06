@@ -1,6 +1,10 @@
-# strings-sweeper
 
-A Swift script to determine and optionally remove unused localization keys in your project.
+
+<p align="center">
+  <img src="https://github.com/stavares843/strings-sweeper/assets/29093946/53adad7a-1f60-4738-a60a-d21c76b58b3e"/>
+</p>
+
+<p align="center">A Swift script to determine and optionally remove unused localization keys in your project.</h1>
 
 ## Usage
 
