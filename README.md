@@ -32,9 +32,7 @@ The `--remove` flag is optional and will automatically remove unused keys from t
 `swift strings-sweeper.swift --lang ./Localizable.strings --remove`
 
 
-https://github.com/stavares843/strings-sweeper/assets/29093946/946b5db0-673f-4713-8142-45ddcd7f4684
-
-
+https://github.com/stavares843/strings-sweeper/assets/29093946/8a23b46c-08ac-4b5f-8087-2eb02f49f044
 
 
 ## Options
