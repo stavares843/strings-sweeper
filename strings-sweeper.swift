@@ -1,9 +1,8 @@
 import Foundation
 
-// Determines unused lang keys and optionally removes them
-// Run this Swift script by executing it from the command line
-// It will print out all unused lang keys
-// You can also automatically remove unused lang keys
+// Determines unused localization keys and optionally removes them
+// It will print out all unused localization keys
+// Creates a backup of the original localization keys file before removing the unused keys
 
 let args = CommandLine.arguments
 var langFile = "./Localizable.strings"
