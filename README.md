@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://github.com/stavares843/strings-sweeper/assets/29093946/53adad7a-1f60-4738-a60a-d21c76b58b3e"/>
+<img width="608" alt="Captura de ecrã 2023-12-06, às 01 18 19" src="https://github.com/stavares843/strings-sweeper/assets/29093946/f66656ed-49e8-499d-add0-ee967c98d864">
 </p>
 
 <p align="center">A Swift script to determine and optionally remove unused localization keys in your project.</h1>
