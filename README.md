@@ -4,6 +4,9 @@
 
 <p align="center">A Swift script to determine and optionally remove unused localization keys in your project.</h1>
 
+<p align="center">
+   <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" /></a>
+</p>
 
 ## Description
 
